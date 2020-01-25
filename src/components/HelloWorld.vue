@@ -90,7 +90,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App  this is my feature bbhhhhhfffggy',
-      data:'hello  anhuisheng'     
+      data:'hello  anhuisheng',     
       tip:'彻彻底底'
     }
   }
